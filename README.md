@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scarleyy
+- 👋 Hi, I’m @ScarlettAlston
 - 👀 I’m interested in ... learning more about coding and web developing
 - 🌱 I’m currently learning ... software engineering
 - 💞️ I’m looking to collaborate on ... any projects that can help me learn more about my future profession
